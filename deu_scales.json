@@ -31,13 +31,6 @@
                 "raw4thSpellCost": 50
             }
         },
-        "Divzer": {
-            "Better Main": {
-                "manaSteal": 30.0,
-                "lifeSteal": 20.0,
-                "rawSpellDamage": 50.0
-            }
-        },
         "Nirvana": {
             "Trickshade": {
                 "spellDamage": 35.0,
