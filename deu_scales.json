@@ -91,6 +91,13 @@
                 "thunderDamage": 25,
                 "spellDamage": 25
             }
+        },
+        "The Ephemeral": {
+            "Main": {
+                "manaRegen": 45,
+                "airDamage": 25,
+                "spellDamage": 30
+            }
         }
     }
 }
