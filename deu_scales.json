@@ -98,6 +98,18 @@
                 "airDamage": 25,
                 "spellDamage": 30
             }
+        },
+        "Logistics": {
+            "Main": {
+                "raw4thSpellCost": 60,
+                "thunderDamage": 35,
+                "waterDamage": 5
+            },
+            "Water": {
+                "raw4thSpellCost": 60,
+                "waterDamage": 35,
+                "thunderDamage": 5
+            }
         }
     }
 }
